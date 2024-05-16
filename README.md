@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">📚 Computer science bachelor student at UniUd<br>🏎️ Firmware developer at [UniUd E-Racing Team](https://github.com/uniuderacing)<br>🦀 Rustacean</p>
+- 📚 Computer science bachelor student at UniUd
+- 🏎️ Firmware developer at [UniUd E-Racing Team](https://github.com/uniuderacing)
+- 🦀 Rustacean
 
 ###
 
@@ -19,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
